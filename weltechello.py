@@ -1,3 +1,3 @@
 # input name info
-name = input("what's your name?")
+name = input("WelTec ask you input your name?")
 print(f"hello, {name}")
